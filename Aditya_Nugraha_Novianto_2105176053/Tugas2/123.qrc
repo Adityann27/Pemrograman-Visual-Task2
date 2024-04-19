@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>user-interface.png</file>
+    <file>geeks-2894621__340.jpg</file>
+  </qresource>
+</RCC>
